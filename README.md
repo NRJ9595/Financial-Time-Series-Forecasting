@@ -1,5 +1,7 @@
 # Assignment 2 — Pattern Recognition for Financial Time Series Forecasting
-
+NAME : NIRANJAN P.P
+ROLL NO: 53
+UNIVERSITY REG. NO : TCR24CS054
 ## Overview
 This project explores how **time-frequency signal processing** and **deep learning (CNN)** can be combined to predict stock prices using financial time series data.
 
